@@ -18,21 +18,21 @@ Database Layer – Stores application data in a private database subnet
 
 AWS Services Used
 
-->  Amazon VPC
+- Amazon VPC
 
--> Public and Private Subnets
+- Public and Private Subnets
 
--> Internet Gateway
+- Internet Gateway
 
--> NAT Gateway
+- NAT Gateway
 
--> Application Load Balancer
+- Application Load Balancer
 
--> Amazon EC2
+- Amazon EC2
 
--> Auto Scaling
+- Auto Scaling
 
--> Amazon RDS
+- Amazon RDS
 
 Architecture Flow
 
