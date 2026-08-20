@@ -13,18 +13,27 @@ The architecture consists of:
 Web Layer – Handles user requests using an Application Load Balancer.
 
 Application Layer – Runs application servers in private subnets.
+
 Database Layer – Stores application data in a private database subnet
 
 AWS Services Used
 
-   Amazon VPC
+->  Amazon VPC
+
 -> Public and Private Subnets
+
 -> Internet Gateway
+
 -> NAT Gateway
+
 -> Application Load Balancer
+
 -> Amazon EC2
+
 -> Auto Scaling
+
 -> Amazon RDS
+
 -> Architecture Flow
 
 Internet → Load Balancer → Application Servers → RDS Database
