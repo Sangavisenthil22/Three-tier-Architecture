@@ -34,7 +34,7 @@ AWS Services Used
 
 -> Amazon RDS
 
--> Architecture Flow
+Architecture Flow
 
 Internet → Load Balancer → Application Servers → RDS Database
 
