@@ -8,6 +8,12 @@ Project Overview
 
 This project demonstrates a three-tier architecture on AWS using separate layers for the web, application, and database components.
 
+The architecture consists of:
+
+Web Layer – Handles user requests using an Application Load Balancer.
+Application Layer – Runs application servers in private subnets.
+Database Layer – Stores application data in a private database subnet
+
 AWS Services Used
 
    Amazon VPC
