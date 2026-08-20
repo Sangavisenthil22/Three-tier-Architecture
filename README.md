@@ -10,15 +10,15 @@ This project demonstrates a three-tier architecture on AWS using separate layers
 
 AWS Services Used
 
--Amazon VPC
--Public and Private Subnets
--Internet Gateway
--NAT Gateway
--Application Load Balancer
--Amazon EC2
--Auto Scaling
--Amazon RDS
--Architecture Flow
+   Amazon VPC
+-> Public and Private Subnets
+-> Internet Gateway
+-> NAT Gateway
+-> Application Load Balancer
+-> Amazon EC2
+-> Auto Scaling
+-> Amazon RDS
+-> Architecture Flow
 
 Internet → Load Balancer → Application Servers → RDS Database
 
