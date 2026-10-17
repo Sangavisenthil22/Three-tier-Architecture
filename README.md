@@ -1,12 +1,12 @@
 # Three-Tier Architecture on AWS
 
- Architecture
+ ## Architecture
 
 ![AWS Three-Tier Architecture](aws-three-tier-architecture.png)
 
-Project Overview
+## Project Overview
 
-This project demonstrates a three-tier architecture on AWS using separate layers for the web, application, and database components.
+Designed a secure and scalable three-tier architecture on AWS, separating the web, application, and database layers to improve security, availability, and maintainability.
 
 The architecture consists of:
 
@@ -16,7 +16,7 @@ Application Layer – Runs application servers in private subnets.
 
 Database Layer – Stores application data in a private database subnet
 
-AWS Services Used
+## AWS Services Used
 
 - Amazon VPC
 
@@ -34,11 +34,11 @@ AWS Services Used
 
 - Amazon RDS
 
-Architecture Flow
+## Architecture Flow
 
 Internet → Load Balancer → Application Servers → RDS Database
 
-Key Features
+## Key Features
 
 - Secure network isolation using public and private subnets
 - Load balancing using Application Load Balancer
