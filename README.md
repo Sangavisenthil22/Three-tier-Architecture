@@ -45,3 +45,10 @@ Internet → Load Balancer → Application Servers → RDS Database
 - Auto Scaling for application servers
 - RDS database deployed in a private subnet
 - NAT Gateway for outbound internet access from private resources
+
+## Learning Outcomes
+
+- Gained knowledge of AWS network architecture and traffic flow.
+- Understood communication between web, application, and database layers.
+- Learned the role of route tables and security groups in network access control.
+- Developed an understanding of AWS infrastructure design principles.
