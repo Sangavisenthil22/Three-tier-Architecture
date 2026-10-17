@@ -1,6 +1,6 @@
 # Three-Tier Architecture on AWS
 
- ## Architecture
+ ## Architecture Diagram
 
 ![AWS Three-Tier Architecture](aws-three-tier-architecture.png)
 
